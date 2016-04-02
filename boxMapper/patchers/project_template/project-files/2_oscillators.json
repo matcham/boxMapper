@@ -1,0 +1,40 @@
+{
+	"box.1" : 	{
+		"bufgranul" : 		{
+
+		}
+,
+		"simpleSynth" : 		{
+
+		}
+,
+		"oscbank~" : 		{
+
+		}
+,
+		"synthFM" : 		{
+
+		}
+,
+		"Granulator" : 		{
+
+		}
+,
+		"sampleScratcher" : 		{
+
+		}
+,
+		"synthOscillators" : 		{
+			"1" : 			{
+				"mapper" : 				{
+					"1" : "",
+					"2" : ""
+				}
+
+			}
+
+		}
+
+	}
+
+}

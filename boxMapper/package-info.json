@@ -1,0 +1,38 @@
+{
+	"author" : "Mathieu Chamagne",
+	"authors" : [  ],
+	"categories" : [  ],
+	"description" : "multi-dimensional data mapping toolbox",
+	"displayname" : "",
+	"extends" : "",
+	"extensible" : 0,
+	"homepatcher" : "boxMapper.maxpat",
+	"max_version_max" : "none",
+	"max_version_min" : "7.0",
+	"name" : "boxMapper",
+	"os" : 	{
+		"macintosh" : 		{
+			"platform" : [ "ia32", "x64" ],
+			"min_version" : "10.7.x"
+		}
+,
+		"windows" : 		{
+			"platform" : [ "ia32", "x64" ],
+			"min_version" : "7"
+		}
+
+	}
+,
+	"readme" : "",
+	"tags" : [ "amxd", "max for live" ],
+	"version" : "0.0.0",
+	"versions" : null,
+	"website" : "http://mathieuchamagne.com",
+	"filelist" : 	{
+		"patchers" : [  ],
+		"extras" : [  ]
+	}
+,
+	"c74install" : 1,
+	"installdate" : -764788910
+}

@@ -1,0 +1,101 @@
+
+- preset "init"
+- description "something about this preset"
+# ###########################################
+# 
+box.1/shape cube
+box.1/color 1.000000 0.892720 0.377778 1.000000
+box.1/cursorType leapMotion_hands (all)
+box.1/name FM_synth
+box.1/position/x 0.000000
+box.1/position/y 0.000000
+box.1/position/z 0.000000
+box.1/rotate/x 0.000000
+box.1/rotate/y 0.000000
+box.1/rotate/z 0.000000
+box.1/size/x 400.000000
+box.1/size/y 400.000000
+box.1/size/z 400.000000
+box.1/synthFM.1/Carrier_frequency 3497.950195
+box.1/synthFM.1/Harmonicity_ratio 0.078414
+box.1/synthFM.1/Modulation_index 1.798398
+box.1/synthFM.1/attack 100.000000
+box.1/synthFM.1/audio/gain 0.000000
+box.1/synthFM.1/audio/mute 0
+box.1/synthFM.1/mapper.1/function freehand
+box.1/synthFM.1/mapper.1/function/parameters.1 curveList 0.000000 0.000000 exponential base 1.000000 1.000000 1.000000 linear
+box.1/synthFM.1/mapper.1/inputAddressMode cursor
+box.1/synthFM.1/mapper.1/outputAddressMode local
+box.1/synthFM.1/mapper.1/inputAddress none
+box.1/synthFM.1/mapper.1/outputAddress Carrier_frequency
+box.1/synthFM.1/mapper.1/sourceMenu1 position_box
+box.1/synthFM.1/mapper.1/sourceMenu2 x
+box.1/synthFM.1/mapper.1/data/active 1
+box.1/synthFM.1/mapper.1/input/index 0
+box.1/synthFM.1/mapper.1/input/max 1.000000
+box.1/synthFM.1/mapper.1/input/min -1.000000
+box.1/synthFM.1/mapper.1/inverse 0
+box.1/synthFM.1/mapper.1/listOp mean
+box.1/synthFM.1/mapper.1/output/max 5000.000000
+box.1/synthFM.1/mapper.1/output/min 0.001000
+box.1/synthFM.1/mapper.1/rampTime 0
+box.1/synthFM.1/mapper.1/type_filter 0
+box.1/synthFM.1/mapper.2/function freehand
+box.1/synthFM.1/mapper.2/function/parameters.1 curveList 0.000000 0.000000 exponential base 1.000000 1.000000 1.000000 linear
+box.1/synthFM.1/mapper.2/inputAddressMode cursor
+box.1/synthFM.1/mapper.2/outputAddressMode local
+box.1/synthFM.1/mapper.2/inputAddress none
+box.1/synthFM.1/mapper.2/outputAddress Harmonicity_ratio
+box.1/synthFM.1/mapper.2/sourceMenu1 position_box
+box.1/synthFM.1/mapper.2/sourceMenu2 y
+box.1/synthFM.1/mapper.2/data/active 1
+box.1/synthFM.1/mapper.2/input/index 0
+box.1/synthFM.1/mapper.2/input/max 1.000000
+box.1/synthFM.1/mapper.2/input/min -1.000000
+box.1/synthFM.1/mapper.2/inverse 0
+box.1/synthFM.1/mapper.2/listOp mean
+box.1/synthFM.1/mapper.2/output/max 2.000000
+box.1/synthFM.1/mapper.2/output/min 0.001000
+box.1/synthFM.1/mapper.2/rampTime 0
+box.1/synthFM.1/mapper.2/type_filter 0
+box.1/synthFM.1/mapper.3/function freehand
+box.1/synthFM.1/mapper.3/function/parameters.1 curveList 0.000000 0.000000 exponential base 1.000000 1.000000 1.000000 linear
+box.1/synthFM.1/mapper.3/inputAddressMode cursor
+box.1/synthFM.1/mapper.3/outputAddressMode local
+box.1/synthFM.1/mapper.3/inputAddress none
+box.1/synthFM.1/mapper.3/outputAddress Modulation_index
+box.1/synthFM.1/mapper.3/sourceMenu1 position_box
+box.1/synthFM.1/mapper.3/sourceMenu2 z
+box.1/synthFM.1/mapper.3/data/active 1
+box.1/synthFM.1/mapper.3/input/index 0
+box.1/synthFM.1/mapper.3/input/max 1.000000
+box.1/synthFM.1/mapper.3/input/min -1.000000
+box.1/synthFM.1/mapper.3/inverse 1
+box.1/synthFM.1/mapper.3/listOp mean
+box.1/synthFM.1/mapper.3/output/max 10.000000
+box.1/synthFM.1/mapper.3/output/min 0.001000
+box.1/synthFM.1/mapper.3/rampTime 0
+box.1/synthFM.1/mapper.3/type_filter 0
+box.1/synthFM.1/mapper.4/function freehand
+box.1/synthFM.1/mapper.4/function/parameters.1 curveList 0.000000 0.000000 exponential base 1.000000 1.000000 1.000000 linear
+box.1/synthFM.1/mapper.4/inputAddressMode cursor
+box.1/synthFM.1/mapper.4/outputAddressMode local
+box.1/synthFM.1/mapper.4/inputAddress none
+box.1/synthFM.1/mapper.4/outputAddress pan
+box.1/synthFM.1/mapper.4/sourceMenu1 orientation
+box.1/synthFM.1/mapper.4/sourceMenu2 roll
+box.1/synthFM.1/mapper.4/data/active 1
+box.1/synthFM.1/mapper.4/input/index 0
+box.1/synthFM.1/mapper.4/input/max 1.000000
+box.1/synthFM.1/mapper.4/input/min -1.000000
+box.1/synthFM.1/mapper.4/inverse 1
+box.1/synthFM.1/mapper.4/listOp mean
+box.1/synthFM.1/mapper.4/output/max 1.000000
+box.1/synthFM.1/mapper.4/output/min -1.000000
+box.1/synthFM.1/mapper.4/rampTime 0
+box.1/synthFM.1/mapper.4/type_filter 0
+box.1/synthFM.1/pan -0.585500
+box.1/synthFM.1/release 250.000000
+box.1/synthFM.1/volume 51.109428
+# 
+# ###########################################
