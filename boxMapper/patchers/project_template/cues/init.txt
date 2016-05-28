@@ -1,0 +1,176 @@
+- cue init
+- description "something about this cue"
+# ###########################################
+#
+#
+#
+/boxMapper/boxes/box.1/shape cube
+/boxMapper/boxes/box.1/color 0.383573 0.660871 0.434725 1.000000
+/boxMapper/boxes/box.1/cursorType leapMotion_hands (all)
+/boxMapper/boxes/box.1/name PVOC
+/boxMapper/boxes/box.1/position/x 689.075012
+/boxMapper/boxes/box.1/position/y 49.727066
+/boxMapper/boxes/box.1/position/z -0.646914
+/boxMapper/boxes/box.1/rotate/x 0.000000
+/boxMapper/boxes/box.1/rotate/y 0.000000
+/boxMapper/boxes/box.1/rotate/z 0.000000
+/boxMapper/boxes/box.1/size/x 200.000000
+/boxMapper/boxes/box.1/size/y 200.000000
+/boxMapper/boxes/box.1/size/z 200.000000
+#
+/boxMapper/boxes/box.2/shape cube
+/boxMapper/boxes/box.2/color 1.000000 0.324138 0.200000 1.000000
+/boxMapper/boxes/box.2/cursorType leapMotion_hands (all)
+/boxMapper/boxes/box.2/name granuL
+/boxMapper/boxes/box.2/position/x 28.363598
+/boxMapper/boxes/box.2/position/y 519.067261
+/boxMapper/boxes/box.2/position/z -0.646914
+/boxMapper/boxes/box.2/rotate/x 0.000000
+/boxMapper/boxes/box.2/rotate/y 0.000000
+/boxMapper/boxes/box.2/rotate/z 0.000000
+/boxMapper/boxes/box.2/size/x 200.000000
+/boxMapper/boxes/box.2/size/y 200.000000
+/boxMapper/boxes/box.2/size/z 200.000000
+#
+/boxMapper/boxes/box.3/shape cube
+/boxMapper/boxes/box.3/color 0.900000 0.800000 0.800000 1.000000
+/boxMapper/boxes/box.3/cursorType leapMotion_hands (all)
+/boxMapper/boxes/box.3/name looper
+/boxMapper/boxes/box.3/position/x 366.173981
+/boxMapper/boxes/box.3/position/y 515.262329
+/boxMapper/boxes/box.3/position/z -0.646914
+/boxMapper/boxes/box.3/rotate/x 0.000000
+/boxMapper/boxes/box.3/rotate/y 0.000000
+/boxMapper/boxes/box.3/rotate/z 0.000000
+/boxMapper/boxes/box.3/size/x 200.000000
+/boxMapper/boxes/box.3/size/y 200.000000
+/boxMapper/boxes/box.3/size/z 200.000000
+#
+/boxMapper/boxes/box.4/shape cube
+/boxMapper/boxes/box.4/color 1.000000 0.900383 0.422222 1.000000
+/boxMapper/boxes/box.4/cursorType leapMotion_hands (all)
+/boxMapper/boxes/box.4/name mixer3D
+/boxMapper/boxes/box.4/position/x -571.861389
+/boxMapper/boxes/box.4/position/y 187.857147
+/boxMapper/boxes/box.4/position/z -0.646914
+/boxMapper/boxes/box.4/rotate/x 0.000000
+/boxMapper/boxes/box.4/rotate/y 0.000000
+/boxMapper/boxes/box.4/rotate/z 0.000000
+/boxMapper/boxes/box.4/size/x 200.000000
+/boxMapper/boxes/box.4/size/y 200.000000
+/boxMapper/boxes/box.4/size/z 200.000000
+#
+/boxMapper/boxes/box.5/shape cube
+/boxMapper/boxes/box.5/color 0.244444 0.335632 1.000000 1.000000
+/boxMapper/boxes/box.5/cursorType leapMotion_hands (all)
+/boxMapper/boxes/box.5/name grainCloud
+/boxMapper/boxes/box.5/position/x -523.211304
+/boxMapper/boxes/box.5/position/y -323.520447
+/boxMapper/boxes/box.5/position/z -0.646914
+/boxMapper/boxes/box.5/rotate/x 0.000000
+/boxMapper/boxes/box.5/rotate/y 0.000000
+/boxMapper/boxes/box.5/rotate/z 0.000000
+/boxMapper/boxes/box.5/size/x 200.000000
+/boxMapper/boxes/box.5/size/y 200.000000
+/boxMapper/boxes/box.5/size/z 200.000000
+#
+/boxMapper/boxes/box.6/shape cube
+/boxMapper/boxes/box.6/color 0.900000 0.800000 0.800000 1.000000
+/boxMapper/boxes/box.6/cursorType leapMotion_hands (all)
+/boxMapper/boxes/box.6/name LIGHTs_&_FXs
+/boxMapper/boxes/box.6/position/x 830.000000
+/boxMapper/boxes/box.6/position/y 0.000000
+/boxMapper/boxes/box.6/position/z 0.000000
+/boxMapper/boxes/box.6/rotate/x 0.000000
+/boxMapper/boxes/box.6/rotate/y 0.000000
+/boxMapper/boxes/box.6/rotate/z 0.000000
+/boxMapper/boxes/box.6/size/x 600.000000
+/boxMapper/boxes/box.6/size/y 400.000000
+/boxMapper/boxes/box.6/size/z 400.000000
+#
+/boxMapper/boxes/box.7/shape cube
+/boxMapper/boxes/box.7/color 0.900000 0.800000 0.800000 1.000000
+/boxMapper/boxes/box.7/cursorType leapMotion_hands (L)
+/boxMapper/boxes/box.7/name playList
+/boxMapper/boxes/box.7/position/x -262.843048
+/boxMapper/boxes/box.7/position/y 511.478394
+/boxMapper/boxes/box.7/position/z -0.646914
+/boxMapper/boxes/box.7/rotate/x 0.000000
+/boxMapper/boxes/box.7/rotate/y 0.000000
+/boxMapper/boxes/box.7/rotate/z 0.000000
+/boxMapper/boxes/box.7/size/x 200.000000
+/boxMapper/boxes/box.7/size/y 200.000000
+/boxMapper/boxes/box.7/size/z 200.000000
+#
+/boxMapper/boxes/box.8/shape cube
+/boxMapper/boxes/box.8/color 0.900000 0.800000 0.800000 1.000000
+/boxMapper/boxes/box.8/cursorType leapMotion_hands (all)
+/boxMapper/boxes/box.8/name trigger
+/boxMapper/boxes/box.8/position/x 518.582214
+/boxMapper/boxes/box.8/position/y -388.889435
+/boxMapper/boxes/box.8/position/z -0.646914
+/boxMapper/boxes/box.8/rotate/x 0.000000
+/boxMapper/boxes/box.8/rotate/y 0.000000
+/boxMapper/boxes/box.8/rotate/z 0.000000
+/boxMapper/boxes/box.8/size/x 200.000000
+/boxMapper/boxes/box.8/size/y 200.000000
+/boxMapper/boxes/box.8/size/z 200.000000
+#
+/boxMapper/boxes/box.9/shape cube
+/boxMapper/boxes/box.9/color 0.900000 0.800000 0.800000 1.000000
+/boxMapper/boxes/box.9/cursorType leapMotion_hands (R)
+/boxMapper/boxes/box.9/name playList2
+/boxMapper/boxes/box.9/position/x -589.621033
+/boxMapper/boxes/box.9/position/y 507.926483
+/boxMapper/boxes/box.9/position/z -0.646914
+/boxMapper/boxes/box.9/rotate/x 0.000000
+/boxMapper/boxes/box.9/rotate/y 0.000000
+/boxMapper/boxes/box.9/rotate/z 0.000000
+/boxMapper/boxes/box.9/size/x 200.000000
+/boxMapper/boxes/box.9/size/y 200.000000
+/boxMapper/boxes/box.9/size/z 200.000000
+#
+/boxMapper/boxes/box.10/shape cube
+/boxMapper/boxes/box.10/color 1.000000 0.679693 0.022222 1.000000
+/boxMapper/boxes/box.10/cursorType leapMotion_hands (all)
+/boxMapper/boxes/box.10/name multiGranul
+/boxMapper/boxes/box.10/position/x -200.000000
+/boxMapper/boxes/box.10/position/y -445.000000
+/boxMapper/boxes/box.10/position/z 0.000000
+/boxMapper/boxes/box.10/rotate/x 0.000000
+/boxMapper/boxes/box.10/rotate/y 0.000000
+/boxMapper/boxes/box.10/rotate/z 0.000000
+/boxMapper/boxes/box.10/size/x 250.000000
+/boxMapper/boxes/box.10/size/y 250.000000
+/boxMapper/boxes/box.10/size/z 250.000000
+#
+/boxMapper/boxes/box.11/shape cube
+/boxMapper/boxes/box.11/color 0.422222 1.000000 0.910345 1.000000
+/boxMapper/boxes/box.11/cursorType leapMotion_hands (all)
+/boxMapper/boxes/box.11/name MubuSeq
+/boxMapper/boxes/box.11/position/x 647.000000
+/boxMapper/boxes/box.11/position/y 502.000000
+/boxMapper/boxes/box.11/position/z 0.000000
+/boxMapper/boxes/box.11/rotate/x 0.000000
+/boxMapper/boxes/box.11/rotate/y 0.000000
+/boxMapper/boxes/box.11/rotate/z 0.000000
+/boxMapper/boxes/box.11/size/x 200.000000
+/boxMapper/boxes/box.11/size/y 200.000000
+/boxMapper/boxes/box.11/size/z 200.000000
+#
+/boxMapper/boxes/box.12/shape cube
+/boxMapper/boxes/box.12/color 0.422222 1.000000 0.910345 1.000000
+/boxMapper/boxes/box.12/cursorType leapMotion_hands (all)
+/boxMapper/boxes/box.12/name MIDI
+/boxMapper/boxes/box.12/position/x 200.000000
+/boxMapper/boxes/box.12/position/y -445.000000
+/boxMapper/boxes/box.12/position/z 0.000000
+/boxMapper/boxes/box.12/rotate/x 0.000000
+/boxMapper/boxes/box.12/rotate/y 0.000000
+/boxMapper/boxes/box.12/rotate/z 0.000000
+/boxMapper/boxes/box.12/size/x 200.000000
+/boxMapper/boxes/box.12/size/y 200.000000
+/boxMapper/boxes/box.12/size/z 200.000000
+#
+# ###########################################
+# ###########################################
